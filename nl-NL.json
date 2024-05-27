@@ -145,7 +145,7 @@
   "menu.worldjoin.title": "JOIN VRIENDEN & TEAM LEDEN",
   "menu.worldjoinevent.title": "JOIN PEN",
   "menu.worldnetworkdropout.title": "NETWERK FOUT",
-  "menu.worldnetworkfailed.title": "CONNECTIE MISLUKT",
+  "menu.worldnetworkfailed.title": "VERBINDING MISLUKT",
   "menu.worldrank.title": "RACE KLASSEMENT",
   "menu.worldrecords.title": "GEFELICITEERD",
   "menu.worldoptions.title": "REVIEW",
@@ -307,8 +307,8 @@
   "menu.team.filter.ridersmale": "Alleen Mannen",
   "menu.team.filter.ridersfemale": "Alleen Vrouwen",
 
-  "menu.worldchat.block": "Blokeer pernamanet de berichten van deze persoon, en alle toekomstige sessies. Ook kan deze persoon jouw berichten niet meer zien, en niet meer toetreden to jouw rit, en je niet meer volgen.",
-  "menu.worldchat.mute": "Tijdelijk berichten dempen van deze persoon voor de restvan deze sessie.",
+  "menu.worldchat.block": "Blokeer permanemt de berichten van deze persoon, en alle toekomstige sessies. Ook kan deze persoon jouw berichten niet meer zien, niet meer toetreden to jouw rit, en je niet meer volgen.",
+  "menu.worldchat.mute": "Tijdelijk de berichten dempen van deze persoon voor de restvan deze sessie.",
 
   "menu.worldoptions.tab.analysis": "ANALYSE",
   "menu.worldoptions.tab.cp": "CP",
